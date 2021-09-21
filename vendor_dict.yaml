@@ -150,8 +150,8 @@ vendors:
     # Option 3 is used to specify the SDLP server
 
     Siemens:
-        vci: Siemens IP-Phone
-        description: Siemens IP Phone
+        vci: OptiIpPhone
+        description: Atos/Siemens IP Phone
         option-def:
             parent-option:
                 name: option 43
